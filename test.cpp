@@ -6,4 +6,6 @@
 using namespace std;
 int main() {
     cout << "Hello, World!" << endl;
+    cout << "Huy\n";
+    int arr[10];
 }
