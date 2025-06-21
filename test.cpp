@@ -44,4 +44,4 @@ int main() {
     cout << "Goodbye!" << endl;
     return 0;
 }
-//Tui đi học lttk tiếp đây =)))
+//Tui đi học lttk tiếp đây =))) , có gì cứ hỏi tui
